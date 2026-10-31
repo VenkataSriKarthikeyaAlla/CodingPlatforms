@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+    int t;
+    int x=0,y=0;
+    int keyvalue,keycount;
+    cin>>t;
+    for(int i=1;i<=t;i++)
+    {
+        int a,b;
+        cin>>a>>b;
+        x+=a;
+        y+=b;
+        if(x>y &&keyvalue<x-y)
+        {
+            keycount=1;
+            keyvalue=x-y;
+        }
+        else if(x<y&&keyvalue<y-x)
+        {
+            keyvalue=y-x;
+            keycount=2;
+        }
+    }
+    cout<<keycount<<" "<<keyvalue;
+}
