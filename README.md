@@ -2,11 +2,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 8**
+**Total Solved: 9**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 4 |
+| String | 1 |
 | Linked-List | 2 |
 | Other | 2 |
 
@@ -23,6 +24,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220001%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Two Sum](https://leetcode.com/problems/two-sum/)
+
+## String
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222710%22%2C%22topic%22%3A%22String%22%7D -->
+- [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)
 
 ## Linked-List
 
