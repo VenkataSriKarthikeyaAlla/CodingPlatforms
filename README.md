@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 9**
+**Total Solved: 10**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 4 |
+| Array | 5 |
 | String | 1 |
 | Linked-List | 2 |
 | Other | 2 |
@@ -15,6 +15,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220605%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223866%22%2C%22topic%22%3A%22Array%22%7D -->
+- [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
