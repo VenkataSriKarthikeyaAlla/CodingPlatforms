@@ -2,12 +2,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 6**
+**Total Solved: 7**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 3 |
-| Linked-List | 1 |
+| Linked-List | 2 |
 | Other | 2 |
 
 ## Array
@@ -22,6 +22,9 @@
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ## Linked-List
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220203%22%2C%22topic%22%3A%22Linked-List%22%7D -->
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220206%22%2C%22topic%22%3A%22Linked-List%22%7D -->
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
