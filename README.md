@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 10**
+**Total Solved: 11**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 5 |
+| Array | 6 |
 | String | 1 |
 | Linked-List | 2 |
 | Other | 2 |
@@ -21,6 +21,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223736%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220260%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number III](https://leetcode.com/problems/single-number-iii/)
