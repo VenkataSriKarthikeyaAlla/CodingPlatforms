@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 7**
+**Total Solved: 8**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 3 |
+| Array | 4 |
 | Linked-List | 2 |
 | Other | 2 |
 
@@ -14,6 +14,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220605%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220260%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number III](https://leetcode.com/problems/single-number-iii/)
