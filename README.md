@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 14**
+**Total Solved: 15**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 9 |
+| Array | 10 |
 | String | 1 |
 | Linked-List | 2 |
 | Other | 2 |
@@ -30,6 +30,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223736%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220137%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Single Number II](https://leetcode.com/problems/single-number-ii/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220260%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number III](https://leetcode.com/problems/single-number-iii/)
