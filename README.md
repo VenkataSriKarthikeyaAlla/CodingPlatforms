@@ -2,13 +2,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 15**
+**Total Solved: 16**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 10 |
 | String | 1 |
 | Linked-List | 2 |
+| Mathematics | 1 |
 | Other | 2 |
 
 ## Array
@@ -55,6 +56,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220206%22%2C%22topic%22%3A%22Linked-List%22%7D -->
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222413%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)
 
 ## Other
 
