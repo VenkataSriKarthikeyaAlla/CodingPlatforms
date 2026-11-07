@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int bitwiseComplement(int n) {
+        if(n==0)
+        {
+            return 1;
+        }
+    int k=0;
+    int j=0;
+    while(n)
+    {
+        int i=n%2;
+        if(i==0)
+        {
+            k+=pow(2,j);
+        }
+        j++;
+        n/=2;
+    }
+    return k;
+    }
+};
