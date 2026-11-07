@@ -2,7 +2,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 16**
+**Total Solved: 17**
 
 | Topic | Solved |
 | --- | ---: |
@@ -10,6 +10,7 @@
 | String | 1 |
 | Linked-List | 2 |
 | Mathematics | 1 |
+| Bit-Manipulation | 1 |
 | Other | 2 |
 
 ## Array
@@ -61,6 +62,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222413%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)
+
+## Bit-Manipulation
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221009%22%2C%22topic%22%3A%22Bit-Manipulation%22%7D -->
+- [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 
 ## Other
 
