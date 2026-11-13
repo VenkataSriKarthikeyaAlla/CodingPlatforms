@@ -4,55 +4,215 @@
 
 ## Problem
 
-You are given an array of integers nums. Return the length of the longest  of nums which is either  or .
+Problem List
+Problem List
 
-Example 1:
+Debugging...
 
-Input: nums = [1,4,3,3,2]
+255:07:46
 
-Output: 2
+Alla_Venkata_Sri_KarthikeyaAccess all features with our Premium subscription!
 
-Explanation:
+My Lists
 
-The strictly increasing subarrays of nums are [1], [2], [3], [3], [4], and [1,4].
+Favorites
 
-The strictly decreasing subarrays of nums are [1], [2], [3], [3], [4], [3,2], and [4,3].
+Notebook
 
-Hence, we return 2.
+Progress
 
-Example 2:
+Points
 
-Input: nums = [3,3,3,3]
+Try New Features
 
-Output: 1
+Orders
 
-Explanation:
+My Playgrounds
 
-The strictly increasing subarrays of nums are [3], [3], [3], and [3].
+Settings
 
-The strictly decreasing subarrays of nums are [3], [3], [3], and [3].
+Appearance
 
-Hence, we return 1.
+Appearance
 
-Example 3:
+System Default
 
-Input: nums = [3,2,1]
+Light
 
-Output: 3
+Dark
 
-Explanation:
+Sign Out
 
-The strictly increasing subarrays of nums are [3], [2], and [1].
+System Default
 
-The strictly decreasing subarrays of nums are [3], [2], [1], [3,2], [2,1], and [3,2,1].
+Light
 
-Hence, we return 3.
+Dark
 
-Constraints:
+Premium
 
-1 <= nums.length <= 50
+Description
+Description
 
-1 <= nums[i] <= 50
+Editorial
+Editorial
+
+Solutions
+Solutions
+
+Submissions
+Submissions
+
+Code
+Code
+
+Accepted
+Accepted
+
+Testcase
+Testcase
+
+Test Result
+Test Result
+
+Runtime
+Memory
+Notes
+
+4
+Accepted
+a minute ago
+
+C++
+
+0 ms
+
+27.7 MB
+
+Notes
+
+3
+Accepted
+14 hours ago
+
+C++
+
+0 ms
+
+27.7 MB
+
+Notes
+
+2
+Accepted
+14 hours ago
+
+C++
+
+0 ms
+
+27.9 MB
+
+Notes
+
+1
+Wrong Answer
+14 hours ago
+
+C++
+
+N/A
+
+N/A
+
+Notes
+
+1
+
+c
+
+In the editor, Tab inserts indentation. Press Ctrl+M to toggle whether Tab moves focus out of the editor. Press Ctrl+' to run the code. Press Ctrl+Enter to submit.
+Saved
+Ln 1, Col 1
+
+You must run your code first
+
+All Submissions
+
+Accepted868 / 868 testcases passed
+
+Alla_Venkata_Sri_Karthikeya
+submitted at Nov 13, 2026 06:04
+
+Runtime
+
+0ms
+Beats100.00%
+
+Memory
+
+27.75MB
+Beats74.37%
+
+Code
+C++
+
+1class Solution {
+2public:
+3    int longestMonotonicSubarray(vector<int>& nums) {
+4        int b=0,s=0,b1=1,s1=1;
+5        for(int i=1;i<nums.size();i++)
+6        {
+7            if(nums[i]>nums[i-1])
+8            {
+9                s1++;
+10                if(b1>b)
+11                {
+12                    b=b1;
+13                }
+14                b1=1;
+15            }
+16            else if(nums[i]<nums[i-1])
+17            {
+18                b1++;
+19                if(s1>s)
+20                {
+21                    s=s1;
+22                }
+23                s1=1;
+24            }
+25            else
+26            {
+27                if(b1>b)
+28                {
+29                    b=b1;
+30                }
+31                if(s1>s)
+32                {
+33                    s=s1;
+34                }
+35                b1=s1=1;
+36            }
+37        }
+38        if(b1>b)
+39        {
+40            b=b1;
+41        }
+42        if(s1>s)
+43        {
+44            s=s1;
+45        }
+46        return (b>s)?b:s;
+47    }
+48};
+
+View more
+
+0/5
+
+FindHeaderBarSize
+FindTabBarSize
+FindBorderBarSize
 
 ## Problem Link
 
