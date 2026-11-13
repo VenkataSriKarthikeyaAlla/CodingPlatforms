@@ -189,7 +189,7 @@ Notes
 class Solution {
 
 In the editor, Tab inserts indentation. Press Ctrl+M to toggle whether Tab moves focus out of the editor. Press Ctrl+' to run the code. Press Ctrl+Enter to submit.
-Restored from localUpgrade to Cloud Saving
+Saved
 Ln 1, Col 1
 
 You must run your code first
