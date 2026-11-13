@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 19**
+**Total Solved: 20**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 12 |
+| Array | 13 |
 | String | 1 |
 | Linked-List | 2 |
 | Mathematics | 1 |
@@ -32,6 +32,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223866%22%2C%22topic%22%3A%22Array%22%7D -->
 - [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223105%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
