@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 17**
+**Total Solved: 18**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 10 |
+| Array | 11 |
 | String | 1 |
 | Linked-List | 2 |
 | Mathematics | 1 |
@@ -20,6 +20,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223895%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221475%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221385%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
