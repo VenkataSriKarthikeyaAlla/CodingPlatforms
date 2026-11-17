@@ -1,0 +1,46 @@
+class Solution {
+public:
+    int minimumSumSubarray(vector<int>& nums, int l, int r) {
+        int ret=-1;
+        for(int i=0;i<nums.size();i++)
+        {
+            int l1=l,r1=r;
+            int index=i;
+            int val=0;
+            cout<<i<<" ";
+            while(index<nums.size()&&l1)
+            {
+                val+=nums[index];
+                index++;
+                l1--;
+            }
+            for(int k=l;k<r;k++)
+            {
+                if(index>=nums.size())
+                {
+                    if((val<ret||ret==-1)&&val>0&&l1==0)
+                    {
+                        ret=val;
+                    
+                    }
+                    break;
+                }
+                if((val<ret||ret==-1)&&val>0)
+                {
+                    ret=val;
+                }
+                
+                val+=nums[index++];
+                if((val<ret||ret==-1)&&val>0)
+                {
+                    ret=val;
+                }
+            }
+            if((val<ret||ret==-1)&&val>0&&l1==0)
+            {
+                ret=val;
+            }
+        }
+        return ret;
+    }
+};
