@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 21**
+**Total Solved: 22**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 14 |
+| Array | 15 |
 | String | 1 |
 | Linked-List | 2 |
 | Mathematics | 1 |
@@ -23,6 +23,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223217%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220150%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221475%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
