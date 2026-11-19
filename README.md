@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 22**
+**Total Solved: 23**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 15 |
+| Array | 16 |
 | String | 1 |
 | Linked-List | 2 |
 | Mathematics | 1 |
@@ -47,6 +47,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223364%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222567%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220137%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number II](https://leetcode.com/problems/single-number-ii/)
