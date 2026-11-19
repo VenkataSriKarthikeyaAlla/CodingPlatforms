@@ -1,0 +1,30 @@
+class Solution {
+public:
+    vector<int> nextGreaterElements(vector<int>& nums) {
+        int n=nums.size()-1;
+        int k=0;
+        vector<int>ret(nums.size(),-1);
+        for(int i=0;i<nums.size();i++)
+        {
+            
+            int j=(i+1)%nums.size(),d=nums[i];
+            int c=0;
+            while(n--)
+            {
+                if(d<nums[j])
+                {
+                    ret[k++]=nums[j];
+                    c=1;
+                    break;
+                }
+                j=(j+1)%nums.size();
+            }
+            if(c==0)
+            {
+                ret[k++]=-1;
+            }
+            n=nums.size()-1;
+        }
+        return ret;
+    }
+};
