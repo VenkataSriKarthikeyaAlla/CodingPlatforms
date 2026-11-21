@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<int> numberOfPairs(vector<int>& nums) {
+        map<int,int>a;
+        for(int i=0;i<nums.size();i++)
+        {
+            a[nums[i]]++;
+        }
+        vector<int>ret(2,0);
+        for(auto x:a)
+        {
+            ret[0]+=x.second/2;
+            ret[1]+=x.second%2;
+        }
+        return ret;
+    }
+};
