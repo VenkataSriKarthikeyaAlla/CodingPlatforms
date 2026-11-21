@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 26**
+**Total Solved: 27**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 17 |
+| Array | 18 |
 | String | 2 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
@@ -54,6 +54,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220503%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221528%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220137%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number II](https://leetcode.com/problems/single-number-ii/)
