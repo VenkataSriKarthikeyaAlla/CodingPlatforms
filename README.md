@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 29**
+**Total Solved: 30**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 20 |
+| Array | 21 |
 | String | 2 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
@@ -69,6 +69,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220260%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Single Number III](https://leetcode.com/problems/single-number-iii/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222057%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220001%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Two Sum](https://leetcode.com/problems/two-sum/)
