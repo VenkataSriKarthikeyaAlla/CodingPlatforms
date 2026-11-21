@@ -2,13 +2,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 25**
+**Total Solved: 26**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 17 |
 | String | 2 |
 | Linked-List | 2 |
+| Hash-Table | 1 |
 | Mathematics | 1 |
 | Bit-Manipulation | 1 |
 | Other | 2 |
@@ -81,6 +82,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220206%22%2C%22topic%22%3A%22Linked-List%22%7D -->
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+## Hash-Table
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222068%22%2C%22topic%22%3A%22Hash-Table%22%7D -->
+- [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
 
 ## Mathematics
 
