@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 42**
+**Total Solved: 43**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 29 |
+| Array | 30 |
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
@@ -45,6 +45,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223866%22%2C%22topic%22%3A%22Array%22%7D -->
 - [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221431%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223105%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
