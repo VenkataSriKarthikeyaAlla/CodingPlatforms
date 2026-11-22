@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 32**
+**Total Solved: 33**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 22 |
+| Array | 23 |
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
@@ -48,6 +48,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222341%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223115%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
