@@ -2,14 +2,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 47**
+**Total Solved: 48**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 31 |
 | String | 3 |
 | Linked-List | 2 |
-| Hash-Table | 1 |
+| Hash-Table | 2 |
 | Mathematics | 6 |
 | Bit-Manipulation | 1 |
 | Other | 3 |
@@ -132,6 +132,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222068%22%2C%22topic%22%3A%22Hash-Table%22%7D -->
 - [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223120%22%2C%22topic%22%3A%22Hash-Table%22%7D -->
+- [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)
 
 ## Mathematics
 
