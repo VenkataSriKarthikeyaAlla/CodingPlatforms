@@ -2,7 +2,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 37**
+**Total Solved: 38**
 
 | Topic | Solved |
 | --- | ---: |
@@ -10,7 +10,7 @@
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
-| Mathematics | 2 |
+| Mathematics | 3 |
 | Bit-Manipulation | 1 |
 | Other | 3 |
 
@@ -116,6 +116,9 @@
 - [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
 
 ## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222769%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221323%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
