@@ -2,7 +2,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 48**
+**Total Solved: 49**
 
 | Topic | Solved |
 | --- | ---: |
@@ -12,7 +12,7 @@
 | Hash-Table | 2 |
 | Mathematics | 6 |
 | Bit-Manipulation | 1 |
-| Other | 3 |
+| Other | 4 |
 
 ## Array
 
@@ -168,6 +168,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%224116%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Assign Umbrella on Rainy Days](https://leetcode.com/problems/assign-umbrella-on-rainy-days/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%224120%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Count Dominant Elements](https://leetcode.com/problems/count-dominant-elements/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%222532%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)
