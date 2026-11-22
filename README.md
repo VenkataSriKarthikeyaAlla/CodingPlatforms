@@ -2,7 +2,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 34**
+**Total Solved: 35**
 
 | Topic | Solved |
 | --- | ---: |
@@ -12,7 +12,7 @@
 | Hash-Table | 1 |
 | Mathematics | 2 |
 | Bit-Manipulation | 1 |
-| Other | 2 |
+| Other | 3 |
 
 ## Array
 
@@ -126,6 +126,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22TLG%22%2C%22topic%22%3A%22Other%22%7D -->
 - [500 to 800 difficulty rating problems](https://www.codechef.com/problems/TLG)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%224116%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Assign Umbrella on Rainy Days](https://leetcode.com/problems/assign-umbrella-on-rainy-days/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%222532%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)
