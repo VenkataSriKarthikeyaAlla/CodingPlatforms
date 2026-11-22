@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 44**
+**Total Solved: 45**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 30 |
+| Array | 31 |
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
@@ -75,6 +75,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220503%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222798%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221512%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
