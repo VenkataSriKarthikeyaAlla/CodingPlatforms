@@ -2,12 +2,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 31**
+**Total Solved: 32**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 22 |
-| String | 2 |
+| String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
 | Mathematics | 1 |
@@ -83,6 +83,9 @@
 - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 
 ## String
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222124%22%2C%22topic%22%3A%22String%22%7D -->
+- [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222710%22%2C%22topic%22%3A%22String%22%7D -->
 - [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)
