@@ -2,7 +2,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 45**
+**Total Solved: 46**
 
 | Topic | Solved |
 | --- | ---: |
@@ -10,7 +10,7 @@
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
-| Mathematics | 4 |
+| Mathematics | 5 |
 | Bit-Manipulation | 1 |
 | Other | 3 |
 
@@ -143,6 +143,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221323%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222427%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222413%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)
