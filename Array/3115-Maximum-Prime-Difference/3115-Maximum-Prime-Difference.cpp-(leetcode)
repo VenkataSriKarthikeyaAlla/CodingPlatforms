@@ -1,0 +1,58 @@
+class Solution {
+public:
+    int maximumPrimeDifference(vector<int>& nums) {
+        int l=0,r=nums.size()-1;
+        while(true)
+        {
+            if(nums[l]<2)
+            {
+                l++;
+                continue;
+            }
+            int c=0;
+            for(int i=2;i<=nums[l]/2;i++)
+            {
+                if(nums[l]%i==0)
+                {
+                    c++;
+                }
+                if(c!=0)
+                {
+                    break;
+                }
+            }
+            if(c==0)
+            {
+                break;
+            }
+            l++;
+        }
+        while(true)
+        {
+            if(nums[r]<2)
+            {
+                r--;
+                continue;
+            }
+            int c=0;
+            for(int i=2;i<=nums[r]/2;i++)
+            {
+                if(nums[r]%i==0)
+                {
+                    c++;
+                }
+                if(c!=0)
+                {
+                    break;
+                }
+            }
+            if(c==0)
+            {
+                break;
+            }
+            r--;
+        }
+        return r-l;
+    }
+    
+};
