@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 39**
+**Total Solved: 40**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 26 |
+| Array | 27 |
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
@@ -69,6 +69,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220503%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221672%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221480%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
