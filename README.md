@@ -2,7 +2,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 46**
+**Total Solved: 47**
 
 | Topic | Solved |
 | --- | ---: |
@@ -10,7 +10,7 @@
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
-| Mathematics | 5 |
+| Mathematics | 6 |
 | Bit-Manipulation | 1 |
 | Other | 3 |
 
@@ -140,6 +140,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222769%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222485%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221323%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
