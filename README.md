@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 35**
+**Total Solved: 36**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 23 |
+| Array | 24 |
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
@@ -39,6 +39,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221385%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222951%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Find the Peaks](https://leetcode.com/problems/find-the-peaks/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223866%22%2C%22topic%22%3A%22Array%22%7D -->
 - [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/)
