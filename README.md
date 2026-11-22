@@ -2,7 +2,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 43**
+**Total Solved: 44**
 
 | Topic | Solved |
 | --- | ---: |
@@ -10,7 +10,7 @@
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 1 |
-| Mathematics | 3 |
+| Mathematics | 4 |
 | Bit-Manipulation | 1 |
 | Other | 3 |
 
@@ -131,6 +131,9 @@
 - [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
 
 ## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222469%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%222769%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
