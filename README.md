@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 49**
+**Total Solved: 50**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 31 |
+| Array | 32 |
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 2 |
@@ -81,6 +81,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221512%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221352%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%221672%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
