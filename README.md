@@ -2,11 +2,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 50**
+**Total Solved: 51**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 32 |
+| Array | 33 |
 | String | 3 |
 | Linked-List | 2 |
 | Hash-Table | 2 |
@@ -63,6 +63,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223411%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%223736%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)
