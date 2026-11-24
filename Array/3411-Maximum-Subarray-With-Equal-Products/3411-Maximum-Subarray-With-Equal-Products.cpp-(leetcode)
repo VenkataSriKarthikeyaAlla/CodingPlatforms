@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int maxLength(vector<int>& nums) {
+        int c=0;
+        for(int i=0;i<nums.size();i++)
+        {
+            long long int g=0,l=1,p=1;
+            for(int j=i;j<nums.size();j++)
+            {
+                g=gcd(g,nums[j]);
+                l=lcm(l,nums[j]);
+                if(p > LLONG_MAX / nums[j])
+                {
+                    break;
+                }
+                p*=nums[j];
+
+                if(p==l*g)
+                {  
+                    if(c<j-i+1)
+                    {
+                        c=j-i+1;
+                    }
+                }
+            }
+        }
+        return c;
+    }
+};
